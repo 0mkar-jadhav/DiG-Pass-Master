@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DiG-Pass Master</string>
+    <string name="dept">Department</string>
+    <string name="post">Post</string>
+    <string name="firebsekey">AAAA9SKNk1A:APA91bFMH4K8KCmJoKOSE1iNY1egbRwYsmKXJRGQ9QuCymdlYcwTRVIAvFezd3lBaZY_Qqs_ywGvDQ9bSbzC_IeZnHP_UMgiFNThEgQzc24n9zCyP8ecKdwHoaBewpuzoO_esJFkypV2</string>
+
+    <string-array name="dept">
+        <item>Select Department</item>
+        <item>CO</item>
+        <item>ME</item>
+        <item>CE</item>
+        <item>EE</item>
+        <item>AI</item>
+    </string-array>
+
+    <string-array name="post">
+        <item>Select Post</item>
+        <item>HOD</item>
+        <item>Class Teacher</item>
+    </string-array>
+
+    <string-array name="div">
+        <item>Select Division</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Select Year</item>
+        <item>BE</item>
+        <item>TE</item>
+        <item>SE</item>
+        <item>FE</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
